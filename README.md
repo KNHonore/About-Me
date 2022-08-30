@@ -9,6 +9,7 @@
 
 💻Colleagues would describe me as an energetic, empathetic, creative, and consultative professional who can be relied on to design captivating web pages, advertisements, and other forms of copy while addressing both business and customer concerns with the highest levels of patience.
 
-🔑Key Skills: Social Media Management • HTML/CSS and Javascript • C# and C++ • Strong Problem Solving and Troubleshooting • Excellent Attention to Detail • Knowledge of Current Social Trends • Cross-Functional Collaboration • User Account Support • Communication
+🔑Key Skills: HTML/CSS and Javascript • C# and C++ • Social Media Management • Strong Problem Solving and Troubleshooting • Excellent Attention to Detail • Knowledge of Current Social Trends • Cross-Functional Collaboration • User Account Support • Communication
 
-📫 Let’s Connect!
+📫 Let’s Connect! https://twitter.com/KhonoComputes • https://www.freecodecamp.org/KHonoComputes
+
