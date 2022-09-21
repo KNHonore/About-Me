@@ -11,5 +11,4 @@
 
 🔑Key Skills: HTML/CSS and Javascript • C# and C++ • Social Media Management • Strong Problem Solving and Troubleshooting • Excellent Attention to Detail • Knowledge of Current Social Trends • Cross-Functional Collaboration • User Account Support • Communication
 
-📫 Let’s Connect! https://www.linkedin.com/in/khiera-honore/ • https://twitter.com/KhonoComputes • https://www.freecodecamp.org/KHonoComputes
-
+📫 Let’s Connect! https://www.linkedin.com/in/khiera-honore/ • https://twitter.com/KhonoComputes • https://www.freecodecamp.org/KHonoComputes • https://knhonore.github.io/
